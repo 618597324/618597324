@@ -1,5 +1,5 @@
 ## Hi there 👋
-I think 618597324 is a beautiful number that is the number with the highest 3** in the range 1-9;
+I think 618597324 is a beautiful number that is the number with the highest 3** in the range 1-9;\n
 It"s my first try to study program, forgive me for some little bug (smile)
 
 <!--
