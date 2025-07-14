@@ -1,4 +1,6 @@
 ## Hi there 👋
+I think 618597324 is a beautiful number that is the number with the highest 3** in the range 1-9;
+It"s my first try to study program, forgive me for some little bug (smile)
 
 <!--
 **618597324/618597324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
